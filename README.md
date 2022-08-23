@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @24Taha42
-- 👀 I’m interested in game design
-- 🌱 I’m currently learning python & c#
-- 💞️ I’m looking to collaborate on online games
+Hello, I am @24Taha42! I am a high school student who loves finding logical solutions to design problems. This passion has led me to coding, in which you are always trying to find the most effiecent solutions to problems. 
+
 
 <!---
 24Taha42/24Taha42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
