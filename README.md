@@ -1,4 +1,6 @@
-Hello, I am @24Taha42! I am a high school student who loves finding logical solutions to design problems. This passion has led me to coding, in which you are always trying to find the most effiecent solutions to problems. 
+# Taha A
+
+Hello, I am @24Taha42! I am a high school student who loves programming and design challenges. I've done many projects both in and outside of school exploring various languages and uses of programming. I really enjoy game design and simulating real world processes. Also, I'll never turn down a creative demonstration of math principles. 
 
 
 <!---
